@@ -5,10 +5,10 @@ title: About
 
 Top performing passionate engineering manager with strengths in problem solving, leadership, strategic thinking and the ability to adapt to different situations.  
 
-In my current role as the Director of Engineering, Automation Infrastructure & Performance Engg, for A10 networks across all product lines, I am responsible for enabling all of engineering to deliver quality reliable products that scale.
-I have led a global team of 20+ automation infrastructure developers/leads/managers and performance engineers. 
-I consistently challenge the team to develop new automation and efficient performance infrastructure with various product requirements and bring out new tools that are useful for engineering teams; within an agile and scrum environment.
-Excellent team player, working with cross functional teams (Development, QA, Devops, PM, Marketing, Sales) to provide automation software and tools useful across the company; and providing performance benchmark of all product lines on every supported platform .
+In my current role as the Director of Engineering, Automation Infrastructure & Performance Engg, for A10 networks across all product lines, I am responsible for enabling all of engineering to deliver quality reliable products that scale.\r\n
+I have led a global team of 20+ automation infrastructure developers/leads/managers and performance engineers.\r\n
+I consistently challenge the team to develop new automation and efficient performance infrastructure with various product requirements and bring out new tools that are useful for engineering teams; within an agile and scrum environment. \r\n
+Excellent team player, working with cross functional teams (Development, QA, Devops, PM, Marketing, Sales) to provide automation software and tools useful across the company; and providing performance benchmark of all product lines on every supported platform. \r\n
 
 ## Current Role
 
@@ -27,9 +27,9 @@ Senior Engineering Manager, Automation Infrastructure & Tools, A10 Networks - Oc
 - Scaled infrastructure distributed across different geographical locations with more than a thousand instances of load-balancers, linux clients/servers, routers and switches with the ability to qualify a product completely in a day.
 - 24 hour product release qualifying automation infrastructure that completes regression coverage in a day in virtual environment (with multiple VM hosts and VM instances) for any product line of the company. Optimized the automation coverage to effectively get the test results in a day and help qualify any release in a short time with good code coverage. 
 - Scaled and distributed infrastructure running hundreds of jobs in parallel at a time on 300 DUTs covering various product features. 
--- DUTs include hardware platforms, DUTs in virtual and container environment deployed on-premise and in public cloud infrastructure.
--- Coverage includes system level validation, validation of complete network stack features (L2-3, L4, L7) and applications (security, firewall, analytics, logs) running on the product.
--- Completely integrated with automated code coverage and analytical tools to report memory leaks on any DUTs running any feature test.
+  -- DUTs include hardware platforms, DUTs in virtual and container environment deployed on-premise and in public cloud infrastructure.
+  -- Coverage includes system level validation, validation of complete network stack features (L2-3, L4, L7) and applications (security, firewall, analytics, logs) running on the product.
+  -- Completely integrated with automated code coverage and analytical tools to report memory leaks on any DUTs running any feature test.
 - Productive tools developed has been useful in early detection of critical issues that would not be possible to detect easily.
 - Auto generated automation reports are delivered to customers for every code drop.
 - Automation reports generated for every release; including the resource usage/memory analytics, performance reports and code coverage reports provide a concrete picture of the quality of the product at the end of a release cycle.
@@ -56,9 +56,9 @@ Senior Software Engineer/Technical Lead, Automation, A10 Networks - Jan 2011 - J
 - Performance automation is run on nightly builds to make sure there is no performance degradation on different platforms. This verifies the L4-L7, SSL CPS and throughput numbers. A graphical report is developed that shows different performance reports based on builds, releases and platforms.
 - Automation development of feature validation for system and application level features supported on different A10’s product lines:
 - Application delivery controllers - L4-7 load balancing, GSLB, TCP, UDP, Http, Caching, SSL offload, Diameter, Aflex, SNMP, Server Health Monitors, Session Management.
--- SSLi - ADP, URL FIltering, Firewall load-balancing.
--- CFW - SSL offload, URL Filtering, ICAP, Explicit Proxy, High Availability, Server load balancing, IPSec, WAF, CGN, IPv6 Transition, IP Anomaly detection, ALGs.
--- IPv6 Transition - LSN, NAT64, Fixed NAT, DS-Lite, MAP-T, LW4o6, ALGs, 6rd.
+  -- SSLi - ADP, URL FIltering, Firewall load-balancing.
+  -- CFW - SSL offload, URL Filtering, ICAP, Explicit Proxy, High Availability, Server load balancing, IPSec, WAF, CGN, IPv6 Transition, IP Anomaly detection, ALGs.
+  -- IPv6 Transition - LSN, NAT64, Fixed NAT, DS-Lite, MAP-T, LW4o6, ALGs, 6rd.
 
 
 Software Engineer, Quality, A10 Networks - July 2008 - Dec 2010
