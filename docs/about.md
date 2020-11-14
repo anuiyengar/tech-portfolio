@@ -16,7 +16,7 @@ Excellent team player, working with cross functional teams (Development, QA, Dev
 
 ## Current Role
 
-# Director of Engineering, Automation Infrastructure & Performance Engineering, A10 Networks - Jan 2019 - Present
+### Director of Engineering, Automation Infrastructure & Performance Engineering, A10 Networks - Jan 2019 - Present
 
 - Leading the automation infrastructure and performance teams that enable A10’s engineering to deliver quality products. 
 - Infrastructure that supports orchestration and service provisioning of load-balancers (using CLI, GUI and RestApi) and servers in on-premise and public cloud environments as required for virtual/container versions of product qualification.
@@ -26,7 +26,7 @@ Excellent team player, working with cross functional teams (Development, QA, Dev
 - Development of code coverage computing infrastructure that works at scale. Reduced total computing time from weeks to 5 days for complete code base. Integration of the code coverage tool with the automated testing platform measures the coverage for each test-case/ test-suite/feature code change. 
 - Test impact analysis tool that suggests tests to run for a section of modified code based on the code coverage report and issues reported in the past test runs for the modified code.
 
-# Senior Engineering Manager, Automation Infrastructure & Tools, A10 Networks - Oct 2016 - Dec 2018
+### Senior Engineering Manager, Automation Infrastructure & Tools, A10 Networks - Oct 2016 - Dec 2018
 
 - Scaled infrastructure distributed across different geographical locations with more than a thousand instances of load-balancers, linux clients/servers, routers and switches with the ability to qualify a product completely in a day.
 - 24 hour product release qualifying automation infrastructure that completes regression coverage in a day in virtual environment (with multiple VM hosts and VM instances) for any product line of the company. Optimized the automation coverage to effectively get the test results in a day and help qualify any release in a short time with good code coverage. 
@@ -40,7 +40,7 @@ Excellent team player, working with cross functional teams (Development, QA, Dev
 - In-house traffic generator orchestration. 
 - Platform analytics tool using elasticsearch that dynamically polls for errors in different layers of the stack on A10’s thunder platforms and alerts the user with the error.
 
-# Engineering Manager, Automation, A10 Networks - Feb 2014 - Sept 2016
+### Engineering Manager, Automation, A10 Networks - Feb 2014 - Sept 2016
 
 - In-house built ATAF (ATen Automation Framework) automation framework used by every SDE team in the company for sanity and unit testing. This has had a huge impact on the code quality on completion of the development cycle.
 - Infrastructure handling 1500+ test suites. Test coverage is continuously enhanced in a CI/CD process followed within the product teams. These are used to qualify all main and patch releases of all product lines at A10 today.
@@ -55,7 +55,7 @@ Excellent team player, working with cross functional teams (Development, QA, Dev
 - GUI automation. Interface between automation development and infrastructure to have appropriate apis in place using Selenium tool.
 
 
-# Senior Software Engineer/Technical Lead, Automation, A10 Networks - Jan 2011 - Jan 2014
+### Senior Software Engineer/Technical Lead, Automation, A10 Networks - Jan 2011 - Jan 2014
 
 - Performance automation is run on nightly builds to make sure there is no performance degradation on different platforms. This verifies the L4-L7, SSL CPS and throughput numbers. A graphical report is developed that shows different performance reports based on builds, releases and platforms.
 - Automation development of feature validation for system and application level features supported on different A10’s product lines:
