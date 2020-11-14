@@ -7,7 +7,7 @@ Top performing passionate engineering manager with strengths in problem solving,
 
 In my current role as the Director of Engineering, Automation Infrastructure & Performance Engg, for A10 networks across all product lines, I am responsible for enabling all of engineering to deliver quality reliable products that scale.
 
-I am highly committed to creating world class automation used in qualifying major company product releases. I have developed a continuous integration delivery strategy as have well as been hands-on in leading my team through daily decision-making. I have guided my team in designing automation software for functional, integration and performance verifications. This automation infrastructure is used to qualify all the main and patch releases of all product lines of A10 today. 
+I am highly committed to creating world class automation used in qualifying major company product releases. I have developed a continuous integration delivery strategy as have well as been hands-on in leading my team through daily decision-making. I have guided my team in designing automation software for various product quailfication requirements and performance verifications. This automation infrastructure is used to qualify all the main and patch releases of all product lines of A10 today. 
 
 I have built the product expertise needed to help debug production issues and integrate with monitoring infrastructures. Various monitoring and reporting tools include memory analytics, resource usage at various states of the product under test, comparison of performance across various releases and builds of the product and code coverage reports for releases.
 
@@ -60,7 +60,7 @@ As the manager of the team, I have worked efficiently with cross-functional team
 
 ## Senior Software Engineer/Technical Lead, Automation, A10 Networks - Jan 2011 - Jan 2014
 
-- Performance automation is run on nightly builds to make sure there is no performance degradation on different platforms. This verifies the L4-L7, SSL CPS and throughput numbers. A graphical report is developed that shows different performance reports based on builds, releases and platforms.
+- Performance automation developed is run on nightly builds to make sure there is no performance degradation on different platforms. This verifies the L4-L7, SSL CPS and throughput numbers. A graphical report is developed that shows different performance reports based on builds, releases and platforms.
 - Automation development of feature validation for system and application level features supported on different A10’s product lines:
   
   --> ADC/Application delivery controllers - L4-L7 server load balancing, GSLB, TCP, UDP, Http, Caching, URL Filtering, SSL offload, Diameter, Aflex, SNMP, Server Health Monitors, Session Management, High Availability, WAF, IP Anomaly detection.
