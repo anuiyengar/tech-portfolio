@@ -13,6 +13,10 @@ I have built the product expertise needed to help debug production issues and in
 
 As the manager of the team, I have worked efficiently with cross-functional teams, understood product requirements, planned the team’s deliverables and communicated effectively. I have been able to manage a fast paced delivery schedule and drive a high-level automation and performance measurements strategies, as well as take a hands-on approach to implementing those strategies in partnership with rest of the engineering leadership. Various self initiated and driven tasks have been taken up by me and these have democratized QA across engineering teams. I have consistently earned the confidence of the CTO and the top management of the company. Consequently, I have received timely recognitions and promotions for my work.
 
+## Skills
+
+Engineering Leadership, Automation, Software Engineering, Infrastructure, Cloud computing, Distributed Systems, Networking, Virtualization, Container, Tools Development, Framework Development, Code Coverage, Test Driven Development, Quality Assurance, Python, Operational Support, Performance Engineering.
+
 ## Current Role
 
 ## Director, Automation Infrastructure & Performance Engineering, A10 Networks - Jan 2019 - Present
