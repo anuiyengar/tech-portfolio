@@ -15,7 +15,7 @@ As the manager of the team, I have worked efficiently with cross-functional team
 
 ## Current Role
 
-## Director of Engineering, Automation Infrastructure & Performance Engineering, A10 Networks - Jan 2019 - Present
+## Director, Automation Infrastructure & Performance Engineering, A10 Networks - Jan 2019 - Present
 
 Management:
 - I empower all of engineering to deliver reliable, scalable, high-quality products.
