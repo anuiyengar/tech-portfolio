@@ -7,7 +7,7 @@ Top performing passionate engineering manager with strengths in problem solving,
 
 In my current role as the Director of Engineering, Automation Infrastructure & Performance Engg, for A10 networks across all product lines, I am responsible for enabling all of engineering to deliver quality reliable products that scale.
 
-I am highly committed to creating world class automation used in qualifying major company product releases. I have developed a continuous integration delivery strategy as have well as been hands-on in leading my team through daily decision-making. I have guided my team in designing automation software for various product quailfication requirements and performance verifications. This automation infrastructure is used to qualify all the main and patch releases of all product lines of A10 today. 
+I am highly committed to creating world class automation used in qualifying major company product releases. I have developed a continuous integration delivery strategy as have well as been hands-on in leading my team through daily decision-making. I have guided my team in designing automation software for various product quailfication requirements and performance verifications. This infrastructure is used to qualify all the main and patch releases of all product lines of A10 today. 
 
 I have built the product expertise needed to help debug production issues and integrate with monitoring infrastructures. Various monitoring and reporting tools include memory analytics, resource usage at various states of the product under test, comparison of performance across various releases and builds of the product and code coverage reports for releases.
 
