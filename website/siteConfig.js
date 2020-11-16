@@ -12,7 +12,7 @@
 const users = [];
 
 const siteConfig = {
-    title: 'AI 17', // Title for your website.
+    title: 'Anupama Iyengar', // Title for your website.
     tagline: 'Continuously improving...',
     //profilePhoto: 'img/profile.png',
     url: 'https://ai17git.github.io', // Your website URL
