@@ -70,7 +70,7 @@ As the manager of the team, I have worked efficiently with cross-functional team
   
  ## Software Engineer, Quality, A10 Networks - July 2008 - Dec 2010
 - One of the early stage engineers of the company. 
-- Responsible for qualifying all application layer features of the product.
+- Responsible for qualifying server load balncing features of the product.
 - Took the responsibility of automation initiatives.
 - Also had opportunity to:
 
