@@ -17,18 +17,33 @@ As the manager of the team, I have worked efficiently with cross-functional team
 
 ## Director of Engineering, Automation Infrastructure & Performance Engineering, A10 Networks - Jan 2019 - Present
 
-- Leading the automation infrastructure and performance teams that enable A10’s engineering to deliver quality products. 
-- Infrastructure that supports orchestration and service provisioning of load-balancers (using CLI, GUI and RestApi) and servers in on-premise and public cloud environments as required for hardware/virtual/container versions of the product qualification.
+Management:
+- I empower all of engineering to deliver reliable, scalable, high-quality products.
+- I lead multiple global teams of automation infrastructure comprising developers/leads/managers and performance engineers. 
+- I constantly challenge the team to develop novel automation and performance infrastructure within an agile and scrum environment.
+- Proven hands-on technical leadership, career development path creation, and mentoring to team members.
+
+Contributions:
+- Automation infrastructure that plays a central role in the development and qualification of features across all product lines for every release. 
+- Distributed and scaled infrastructure that supports orchestration and service provisioning of load-balancers (using CLI, GUI and RestApi) and servers in on-premise and public cloud environments as required for hardware/virtual/container versions of the product qualification.
 - Terraform integration to the infrastructure to support multiple public cloud vendors.
 - Codeless automation: Integration of Behave framework to ATAF framework that removes the need to code automated test suites; thus providing the ability for engineers to automate test cases in a very short time that would otherwise take days/weeks. 
 - Development of code coverage computing infrastructure that works at scale. Reduced total computing time from weeks to 5 days for complete code base. Integration of the code coverage tool with the automated testing platform measures the coverage for each test-case/ test-suite/feature code change. 
 - Test impact analysis tool that suggests tests to run for a section of modified code based on the code coverage report and issues reported in the past test runs for the modified code.
+- Performance engineering holds the core responsibility of providing the best performance benchmarks for every metric on every supported hardware platform with different performance capabilities; and covering different specifications of virtual deployments of the product. Datasheet provided to the product, marketing, and sales teams at the end of every release. 
 - Robust and efficient performance infrastructure that’s designed to handle high performing platforms, traffic generators that are reliable and can scale. 
 - Streamlined the process to benchmark performance data as required by product, sales and marketing teams.
 
 ## Senior Engineering Manager, Automation Infrastructure & Tools, A10 Networks - Oct 2016 - Dec 2018
 
-- Scaled infrastructure distributed across different geographical locations with more than a thousand instances of load-balancers, linux clients/servers, routers and switches with the ability to qualify a product completely in a day.
+Management:
+- As the Senior Engineering Manager, Automation Infrastructure & Tools, I was mainly responsible for building the automation infrastructure that could scale and reduce the overall product qualification time from 3 weeks to a day.
+- I led multiple global teams of automation & tools developers/leads/managers. 
+- I could bring out the best performance from the team by providing opportunities to solve existing problems that made a difference to the company.
+- Hired and trained the best talents.
+
+Contributions: 
+- Scaled infrastructure distributed across different geographical locations with more than a thousand instances of load-balancers, Linux clients/servers, routers, and switches with the ability to qualify a product completely in a day; providing daily quality analysis of the release using automated report generation.
 - 24 hour product release qualifying automation infrastructure that completes regression coverage in a day in virtual environment (with multiple VM hosts and VM instances) for any product line of the company. Optimized the automation coverage to effectively get the test results in a day and help qualify any release in a short time with good code coverage. 
 - Scaled and distributed infrastructure running hundreds of jobs in parallel at a time on 300 DUTs covering various product features. 
   
@@ -45,20 +60,35 @@ As the manager of the team, I have worked efficiently with cross-functional team
 - Platform analytics tool using elasticsearch that dynamically polls for errors in different layers of the stack on A10’s thunder platforms and alerts the user with the error.
 
 ## Engineering Manager, Automation, A10 Networks - Feb 2014 - Sept 2016
+Management:
+
+- As the Engineering Manager, Automation, my responsibility included developing an in-house automation framework that was used by engineering to develop, unit test, and qualify any feature. 
+- I led a very productive team of 8 automation developers and leads.
+- Successful summer internship program.
+- Worked very closely with cross-functional teams to deliver the ever-growing automation requirements.
+
+Contributions:
 
 - In-house built ATAF (ATen Automation Framework) automation framework used by every SDE team in the company for sanity and unit testing. This has had a huge impact on the code quality on completion of the development cycle.
 - Infrastructure handling 1500+ test suites. Test coverage is continuously enhanced in a CI/CD process followed within the product teams. These are used to qualify all main and patch releases of all product lines at A10 today.
+- Support for REST-API in the framework based on JSON schema in Python for all product lines. 
 - Data integrity tool that validates payload of every packet passing through the device. 
 - Tool to generate system resource capacity of all platforms of A10 that is published by the technical marketing team to be used by SEs. 
 - Graphical reporting tool for memory analytics resulting in easy memory leak detection. 
 - Graphical reporting tool that shows performance reports based on builds, releases and platforms.
 - Customer profile automation of large ISPs and public cloud providers that auto-generate reports required by customers for every code drop. Automation of customer found defects.
-- REST-API based test automation based on JSON schema in Python for all product lines. 
 - TCP stack automation in Python to detect any discrepancies in the stack. The test suite also covers RFC conformance tests.
 - GUI automation. Interface between automation development and infrastructure to have appropriate apis in place using Selenium tool.
 
 
 ## Senior Software Engineer/Technical Lead, Automation, A10 Networks - Jan 2011 - Jan 2014
+
+Leadership:
+
+- As a Senior Software Engineer and Technical lead, I had the core responsibility to lead and develop automation library and feature test automation.
+- I successfully led a team of 4 engineers supporting the automation of the company’s core product lines ADC and GCN.
+
+Contributions: 
 
 - Performance automation developed is run on nightly builds to make sure there is no performance degradation on different platforms. This verifies the L4-L7, SSL CPS and throughput numbers. A graphical report is developed that shows different performance reports based on builds, releases and platforms.
 - Automation development of feature validation for system and application level features supported on different A10’s product lines:
@@ -69,6 +99,9 @@ As the manager of the team, I have worked efficiently with cross-functional team
 
   
  ## Software Engineer, Quality, A10 Networks - July 2008 - Dec 2010
+ 
+ Contributions:
+ 
 - One of the early stage engineers of the company. 
 - Responsible for qualifying server load balncing features of the product.
 - Took the responsibility of automation initiatives.
@@ -77,6 +110,11 @@ As the manager of the team, I have worked efficiently with cross-functional team
   --> Attend to customer support calls on a weekly basis.
 
   --> Training of all application layer features to customers.
+
+## EDUCATION
+- Online, Cloud Computing Concepts - Distributed Systems, MapReduce, Gossip Protocol, P2P Systems, Cassandra, Cap Theorem, Consistency Spectrum, Lamport Timestamps, Vector Clocks, Global Snapshot Algorithm, Multicast, Paxos - Specialization course from the University of Illinois, Urbana Champaign. [Ongoing] 
+- Master of Science, Computer Engineering - San Jose State University
+- Bachelor of Engineering, Computer Science - Visvesvaraya Technological University	
 
 ## Social Media
 
