@@ -17,13 +17,6 @@ As the manager of the team, I have worked efficiently with cross-functional team
 
 ## Director, Automation Infrastructure & Performance Engineering, A10 Networks - Jan 2019 - Present
 
-Management:
-- I empower all of engineering to deliver reliable, scalable, high-quality products.
-- I lead multiple global teams of automation infrastructure comprising developers/leads/managers and performance engineers. 
-- I constantly challenge the team to develop novel automation and performance infrastructure within an agile and scrum environment.
-- Proven hands-on technical leadership, career development path creation, and mentoring to team members.
-
-Contributions:
 - Automation infrastructure that plays a central role in the development and qualification of features across all product lines for every release. 
 - Distributed and scaled infrastructure that supports orchestration and service provisioning of load-balancers (using CLI, GUI and RestApi) and servers in on-premise and public cloud environments as required for hardware/virtual/container versions of the product qualification.
 - Terraform integration to the infrastructure to support multiple public cloud vendors.
@@ -36,13 +29,6 @@ Contributions:
 
 ## Senior Engineering Manager, Automation Infrastructure & Tools, A10 Networks - Oct 2016 - Dec 2018
 
-Management:
-- As the Senior Engineering Manager, Automation Infrastructure & Tools, I was mainly responsible for building the automation infrastructure that could scale and reduce the overall product qualification time from 3 weeks to a day.
-- I led multiple global teams of automation & tools developers/leads/managers. 
-- I could bring out the best performance from the team by providing opportunities to solve existing problems that made a difference to the company.
-- Hired and trained the best talents.
-
-Contributions: 
 - Scaled infrastructure distributed across different geographical locations with more than a thousand instances of load-balancers, Linux clients/servers, routers, and switches with the ability to qualify a product completely in a day; providing daily quality analysis of the release using automated report generation.
 - 24 hour product release qualifying automation infrastructure that completes regression coverage in a day in virtual environment (with multiple VM hosts and VM instances) for any product line of the company. Optimized the automation coverage to effectively get the test results in a day and help qualify any release in a short time with good code coverage. 
 - Scaled and distributed infrastructure running hundreds of jobs in parallel at a time on 300 DUTs covering various product features. 
@@ -60,14 +46,6 @@ Contributions:
 - Platform analytics tool using elasticsearch that dynamically polls for errors in different layers of the stack on A10’s thunder platforms and alerts the user with the error.
 
 ## Engineering Manager, Automation, A10 Networks - Feb 2014 - Sept 2016
-Management:
-
-- As the Engineering Manager, Automation, my responsibility included developing an in-house automation framework that was used by engineering to develop, unit test, and qualify any feature. 
-- I led a very productive team of 8 automation developers and leads.
-- Successful summer internship program.
-- Worked very closely with cross-functional teams to deliver the ever-growing automation requirements.
-
-Contributions:
 
 - In-house built ATAF (ATen Automation Framework) automation framework used by every SDE team in the company for sanity and unit testing. This has had a huge impact on the code quality on completion of the development cycle.
 - Infrastructure handling 1500+ test suites. Test coverage is continuously enhanced in a CI/CD process followed within the product teams. These are used to qualify all main and patch releases of all product lines at A10 today.
@@ -83,13 +61,8 @@ Contributions:
 
 ## Senior Software Engineer/Technical Lead, Automation, A10 Networks - Jan 2011 - Jan 2014
 
-Leadership:
-
 - As a Senior Software Engineer and Technical lead, I had the core responsibility to lead and develop automation library and feature test automation.
 - I successfully led a team of 4 engineers supporting the automation of the company’s core product lines ADC and GCN.
-
-Contributions: 
-
 - Performance automation developed is run on nightly builds to make sure there is no performance degradation on different platforms. This verifies the L4-L7, SSL CPS and throughput numbers. A graphical report is developed that shows different performance reports based on builds, releases and platforms.
 - Automation development of feature validation for system and application level features supported on different A10’s product lines:
   
@@ -99,8 +72,6 @@ Contributions:
 
   
  ## Software Engineer, Quality, A10 Networks - July 2008 - Dec 2010
- 
- Contributions:
  
 - One of the early stage engineers of the company. 
 - Responsible for qualifying server load balncing features of the product.
