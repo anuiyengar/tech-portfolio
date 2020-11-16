@@ -87,7 +87,7 @@ Engineering Leadership, Automation, Software Engineering, Infrastructure, Cloud 
   --> Training of all application layer features to customers.
 
 ## Education
-- Online, Cloud Computing Concepts - Distributed Systems, MapReduce, Gossip Protocol, P2P Systems, Cassandra, Cap Theorem, Consistency Spectrum, Lamport Timestamps, Vector Clocks, Global Snapshot Algorithm, Multicast, Paxos - Specialization course from the University of Illinois, Urbana Champaign. [Ongoing] 
+- Online, Cloud Computing Concepts - Distributed Systems, MapReduce, Gossip Protocol, P2P Systems, Cassandra, Cap Theorem, Consistency Spectrum, Lamport Timestamps, Vector Clocks, Global Snapshot Algorithm, Multicast, Paxos --> Specialization course from the University of Illinois, Urbana Champaign. [Ongoing] 
 - Master of Science, Computer Engineering - San Jose State University
 - Bachelor of Engineering, Computer Science - Visvesvaraya Technological University	
 
