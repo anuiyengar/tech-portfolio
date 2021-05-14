@@ -22,7 +22,7 @@ Engineering Leadership, Automation, Software Engineering, Infrastructure, Cloud 
 ## Director, Automation Infrastructure & Performance Engineering, A10 Networks - Jan 2019 - Present
 
 - Automation infrastructure that plays a central role in the development and qualification of features across all product lines for every release. 
-- Distributed and scaled infrastructure that supports orchestration and service provisioning of load-balancers (using CLI, GUI, and RestApi) and servers in on-premise and public cloud environments as required for hardware/virtual/container versions of the product qualification.
+- Distributed and scaled infrastructure that supports orchestration and service provisioning of load-balancers (using CLI, GUI, and RestApi) and servers in on-premise and public cloud environments as required for hardware/virtual/container versions of the product qualification. This is integrated as part of CI/CD process with end to end automation.
 - Terraform integration to the infrastructure to support multiple public cloud vendors.
 - Codeless automation: Integration of Behave framework to ATAF framework that removes the need to code automated test suites; thus providing the ability for engineers to automate test cases in a very short time that would otherwise take days/weeks. 
 - Development of code coverage computing infrastructure that works at scale. Reduced total computing time from weeks to 5 days for the complete code base. The integration of the code coverage tool with the automated testing platform measures the coverage for each test-case/ test-suite/feature code change. 
