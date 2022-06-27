@@ -28,7 +28,7 @@ Engineering Leadership, Automation, Software Engineering, Infrastructure, Cloud 
 - Development of code coverage computing infrastructure that works at scale. Reduced total computing time from weeks to 5 days for the complete code base. The integration of the code coverage tool with the automated testing platform measures the coverage for each test-case/ test-suite/feature code change. 
 - Test impact analysis tool that suggests tests to run for a section of modified code based on the code coverage report and issues reported in the past test runs for the modified code.
 - Performance engineering holds the core responsibility of providing the best performance benchmarks for every metric on every supported hardware platform with different performance capabilities; and covering different specifications of virtual deployments of the product. The datasheet is provided to the product, marketing, and sales teams at the end of every release. 
-- Robust and efficient performance infrastructure that’s designed to handle high performing platforms, traffic generators that are reliable and can scale. 
+- Robust and efficient automated performance infrastructure that’s designed to handle high performing platforms, traffic generators that are reliable and can scale. 
 - Streamlined the process to benchmark performance data as required by the product, sales, and marketing teams.
 
 ## Senior Engineering Manager, Automation Infrastructure & Tools, A10 Networks - Oct 2016 - Dec 2018
@@ -87,7 +87,7 @@ Engineering Leadership, Automation, Software Engineering, Infrastructure, Cloud 
   --> Training of all application-layer features to customers.
 
 ## Education
-- Online, Cloud Computing Concepts - Distributed Systems, MapReduce, Gossip Protocol, P2P Systems, Cassandra, Cap Theorem, Consistency Spectrum, Lamport Timestamps, Vector Clocks, Global Snapshot Algorithm, Multicast, Paxos --> Specialization course from the University of Illinois, Urbana Champaign. [Ongoing] 
+- Online, Cloud Computing Concepts - Distributed Systems, MapReduce, Gossip Protocol, P2P Systems, Cassandra, Cap Theorem, Consistency Spectrum, Lamport Timestamps, Vector Clocks, Global Snapshot Algorithm, Multicast, Paxos --> Specialization course from the University of Illinois, Urbana Champaign.
 - Master of Science, Computer Engineering - San Jose State University
 - Bachelor of Engineering, Computer Science - Visvesvaraya Technological University	
 
