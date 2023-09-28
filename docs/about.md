@@ -15,20 +15,20 @@ As the manager of the team, I have worked efficiently with cross-functional team
 
 ## Skills
 
-Engineering Leadership, Automation, Software Engineering, Infrastructure, Cloud computing, Distributed Systems, Networking, Virtualization, Container, Tools Development, Framework Development, Code Coverage, Test Driven Development, Quality Assurance, Python, Operational Support, Performance Engineering.
+Engineering Leadership, Automation, Software Engineering, Infrastructure, Cloud computing, Distributed Systems, Networking, Virtualization, Container, Tools Development, Framework Development, Code Coverage, Test Driven Development, Quality Assurance, Python, Operational Support, and Performance Engineering.
 
 ## Current Role
 
 ## Director, Automation Infrastructure & Performance Engineering, A10 Networks - Jan 2019 - Present
 
 - Automation infrastructure that plays a central role in the development and qualification of features across all product lines for every release. 
-- Distributed and scaled infrastructure that supports orchestration and service provisioning of load-balancers (using CLI, GUI, and RestApi) and servers in on-premise and public cloud environments (AWS, Azure, and OCI) as required for hardware/virtual/container versions of the product qualification. This is integrated as part of CI/CD process with end to end automation using Jenkins and Terraform.
+- Distributed and scaled infrastructure that supports orchestration and service provisioning of load-balancers (using CLI, GUI, and RestApi) and servers in on-premise and public cloud environments (AWS, Azure, GCP, and OCI) as required for hardware/virtual/container versions of the product qualification. This is integrated as part of the CI/CD process with end-to-end automation using Jenkins and Terraform.
 - Terraform integration to the infrastructure to support multiple public cloud vendors.
 - Codeless automation: Integration of Behave framework to ATAF framework that removes the need to code automated test suites; thus providing the ability for engineers to automate test cases in a very short time that would otherwise take days/weeks. 
-- Development of code coverage computing infrastructure that works at scale. Reduced total computing time from weeks to 5 days for the complete code base. The integration of the code coverage tool with the automated testing platform measures the coverage for each test-case/ test-suite/feature code change. 
+- Development of code coverage computing infrastructure that works at scale. Reduced total computing time from weeks to 5 days for the complete code base. The integration of the code coverage tool with the automated testing platform measures the coverage for each test case/ test-suite/feature code change. 
 - Test impact analysis tool that suggests tests to run for a section of modified code based on the code coverage report and issues reported in the past test runs for the modified code.
 - Performance engineering holds the core responsibility of providing the profiles to achieve the best performance benchmarks for every metric, on every supported hardware platform with different performance capabilities; and covering different specifications of virtual deployments (KVM, ESXi, BareMetal, Container, On-Prem, Public Cloud) of the product. Performance data is provided to the product, marketing, and sales teams at the end of every release ( https://www.a10networks.com/resources/datasheets/  ).  
-- Robust and efficient automated performance infrastructure that’s designed to handle high performing platforms, traffic generators that are reliable and can scale. 
+- Robust and efficient automated performance infrastructure that’s designed to handle high-performing platforms, and traffic generators that are reliable and can scale. 
 - Streamlined the process to benchmark performance data as required by the product, sales, and marketing teams.
 
 ## Senior Engineering Manager, Automation Infrastructure & Tools, A10 Networks - Oct 2016 - Dec 2018
@@ -37,7 +37,7 @@ Engineering Leadership, Automation, Software Engineering, Infrastructure, Cloud 
 - 24-hour product release qualifying automation infrastructure that completes regression coverage in a day in a virtual environment (with multiple VM hosts and VM instances) for any product line of the company. Optimized the automation coverage to effectively get the test results in a day and help qualify any release in a short time with good code coverage. 
 - Scaled and distributed infrastructure running hundreds of jobs in parallel at a time on 300 DUTs covering various product features. 
   
-  --> DUTs include hardware platforms, DUTs in virtual and container environment deployed on-premise and in public cloud infrastructure.
+  --> DUTs include hardware platforms, and DUTs in virtual and container environments deployed on-premise and in public cloud infrastructure.
   
   --> Coverage includes system-level validation, validation of complete network stack features (L2-3, L4, L7), and applications (security, firewall, analytics, logs) running on the product.
   
@@ -47,20 +47,20 @@ Engineering Leadership, Automation, Software Engineering, Infrastructure, Cloud 
 - Auto-generated automation reports are delivered to customers for every code drop.
 - Automation reports generated for every release; including the resource usage/memory analytics, performance reports, and code coverage reports provide a concrete picture of the quality of the product at the end of a release cycle.
 - In-house traffic generator orchestration. 
-- Platform analytics tool using elasticsearch that dynamically polls for errors in different layers of the stack on A10’s thunder platforms and alerts the user with the error.
+- Platform analytics tool using elastic search that dynamically polls for errors in different layers of the stack on A10’s thunder platforms and alerts the user with the error.
 
 ## Engineering Manager, Automation, A10 Networks - Feb 2014 - Sept 2016
 
-- In-house built ATAF (ATen Automation Framework) automation framework used by every SDE team in the company for sanity and unit testing. This has had a huge impact on the code quality on completion of the development cycle.
+- In-house built ATAF (ATen Automation Framework) automation framework used by every SDE team in the company for sanity and unit testing. This has had a huge impact on the code quality at the completion of the development cycle.
 - Infrastructure handling 1500+ test suites. Test coverage is continuously enhanced in a CI/CD process followed within the product teams. These are used to qualify all main and patch releases of all product lines at A10 today.
 - Support for REST-API in the framework based on JSON schema in Python for all product lines. 
 - Data integrity tool that validates the payload of every packet passing through the device. 
 - A tool to generate system resource capacity of all platforms of A10 that is published by the technical marketing team to be used by SEs. 
 - Graphical reporting tool for memory analytics resulting in easy memory leak detection. 
 - A graphical reporting tool that shows performance reports based on builds, releases, and platforms.
-- Customer profile automation of large ISPs and public cloud providers that auto-generate reports required by customers for every code drop. Automation of customer found defects.
+- Customer profile automation of large ISPs and public cloud providers that auto-generate reports required by customers for every code drop. Automation of customer-found defects.
 - TCP stack automation in Python to detect any discrepancies in the stack. The test suite also covers RFC conformance tests.
-- GUI automation. Interface between automation development and infrastructure to have appropriate APIs in place using the Selenium tool.
+- GUI automation. The interface between automation development and infrastructure to have appropriate APIs in place using the Selenium tool.
 
 
 ## Senior Software Engineer/Technical Lead, Automation, A10 Networks - Jan 2011 - Jan 2014
@@ -77,7 +77,7 @@ Engineering Leadership, Automation, Software Engineering, Infrastructure, Cloud 
   
  ## Software Engineer, Quality, A10 Networks - July 2008 - Dec 2010
  
-- One of the early stage engineers of the company. 
+- One of the early-stage engineers of the company. 
 - Responsible for qualifying server load balancing features of the product.
 - Took the responsibility for automation initiatives.
 - Also had the opportunity to:
@@ -87,6 +87,7 @@ Engineering Leadership, Automation, Software Engineering, Infrastructure, Cloud 
   --> Training of all application-layer features to customers.
 
 ## Education
+- Online, Supervised Machine Learning: Regression and Classification - From Deeplearning.ai, Stanford University
 - Online, Cloud Computing Concepts - Distributed Systems, MapReduce, Gossip Protocol, P2P Systems, Cassandra, Cap Theorem, Consistency Spectrum, Lamport Timestamps, Vector Clocks, Global Snapshot Algorithm, Multicast, Paxos --> Specialization course from the University of Illinois, Urbana Champaign.
 - Master of Science, Computer Engineering - San Jose State University
 - Bachelor of Engineering, Computer Science - Visvesvaraya Technological University	
